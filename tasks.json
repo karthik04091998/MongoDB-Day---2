@@ -1,0 +1,32 @@
+[
+    {
+        "title": "Day 1 : HTML",
+        "dueDate": "2020-10-21",
+        "date": "2020-10-15",
+        "completed": "false"
+    },
+    {
+        "title": "Day 2 : CSS",
+        "dueDate": "2020-10-25",
+        "date": "2020-10-18",
+        "completed": "true"
+    },
+    {
+        "title": "Day 3 : JS",
+        "dueDate": "2020-10-27",
+        "date": "2020-10-20",
+        "completed": "true"
+    },
+    {
+        "title": "Day 4 : REACT",
+        "dueDate": "2020-10-31",
+        "date": "2020-10-25",
+        "completed": "false"
+    },
+    {
+        "title": "Day 5 : NodeJs",
+        "dueDate": "2020-10-31",
+        "date": "2020-10-31",
+        "completed": "true"
+    }
+]

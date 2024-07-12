@@ -1,0 +1,72 @@
+[
+    {
+        "date": "2020-10-19",
+        "isPresent": "true",
+        "student": [
+            "karthik1998@gmail.com"
+        ]
+    },
+    {
+        "date": "2020-10-21",
+        "isPresent": "false",
+        "student": [
+            "karthik1998@gmail.com"
+        ]
+    },
+    {
+        "date": "2020-10-19",
+        "isPresent": "true",
+        "student": [
+            "sooriya2000@gmail.com"
+        ]
+    },
+    {
+        "date": "2020-10-21",
+        "isPresent": "true",
+        "student": [
+            "sooriya2000@gmail.com"
+        ]
+    },
+    {
+        "date": "2020-10-19",
+        "isPresent": "true",
+        "student": [
+            "kavitha2001@gmail.com"
+        ]
+    },
+    {
+        "date": "2020-10-21",
+        "isPresent": "true",
+        "student": [
+            "kavitha2001@gmail.com"
+        ]
+    },
+    {
+        "date": "2020-10-19",
+        "isPresent": "false",
+        "student": [
+            "latha1974@gmail.com"
+        ]
+    },
+    {
+        "date": "2020-10-21",
+        "isPresent": "false",
+        "student": [
+            "latha1974@gmail.com"
+        ]
+    },
+    {
+        "date": "2020-10-19",
+        "isPresent": "true",
+        "student": [
+            "parthiban1969@gmail.com"
+        ]
+    },
+    {
+        "date": "2020-10-21",
+        "isPresent": "true",
+        "student": [
+            "parthiban1969@gmail.com"
+        ]
+    }
+]

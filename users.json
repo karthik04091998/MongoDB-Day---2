@@ -1,0 +1,32 @@
+[
+    {
+        "userid": "1",
+        "name": "Karthik",
+        "email": "karthik1998@gmail.com",
+        "batch": "FSD56WE-T"
+    },
+    {
+        "userid": "2",
+        "name": "Sooriya",
+        "email": "sooriya2000@gamil.com",
+        "batch": "FSD56WE-T"
+    },
+    {
+        "userid": "3",
+        "name": "Kavitha",
+        "email": "Kavitha2001@gmail.com",
+        "batch": "FSD56WE-T"
+    },
+    {
+        "userid": "4",
+        "name": "Latha",
+        "email": "Latha1974@gmail.com",
+        "batch": "FSD56WE-T"
+    },
+    {
+        "userid": "5",
+        "name": "Parthiban",
+        "email": "Parthiban1969@gmail.com",
+        "batch": "FSD56WE-T"
+    }
+]

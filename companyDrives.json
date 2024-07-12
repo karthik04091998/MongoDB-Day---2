@@ -1,0 +1,37 @@
+[
+    {
+        "company": "Zoho",
+        "date": "2020-10-15",
+        "student": [
+            "karthik1998@gmail.com"
+        ]
+    },
+    {
+        "company": "Google",
+        "date": "2020-10-15",
+        "student": [
+            "sooriya2000@gmail.com"
+        ]
+    },
+    {
+        "company": "Tcs",
+        "date": "2020-10-15",
+        "student": [
+            "kavitha2001@gmail.com"
+        ]
+    },
+    {
+        "company": "Caterpillar",
+        "date": "2020-10-15",
+        "student": [
+            "karthik1998@gmail.com"
+        ]
+    },
+    {
+        "company": "Wipro",
+        "date": "2020-10-15",
+        "student": [
+            "parthiban1969@gmail.com"
+        ]
+    }
+]

@@ -1,0 +1,26 @@
+[{
+    "title" : "Day 1 : HTML",
+    "mentor" : "Sathish",
+    "date" : "2020-10-15"
+},
+{
+    "title" : "Day 2 : CSS",
+    "mentor" : "Sathish",
+    "date" : "2020-10-18"
+},
+{
+    "title" : "Day 3 : JS",
+    "mentor" : "Sathish",
+    "date" : "2020-10-20"
+},
+{
+   "title" : "Day 4 : REACT",
+    "mentor" : "Sanjay",
+    "date" : "2020-10-25"
+},
+{
+    "title" : "Day 5 : NodeJs",
+    "mentor" : "Sanjay",
+    "date" : "2020-10-31"
+}
+]
